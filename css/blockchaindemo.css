@@ -1,0 +1,275 @@
+#particle-canvas {
+    width: 100%;
+    height: 100%;
+}
+
+#sec1 {
+    width: 100%;
+    height: 100%;
+}
+
+#inner {
+    width: 25%;
+    height: 25%;
+    margin: auto;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: 999;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+    font-size: 40pt;
+}
+
+#bc02Div {
+    height: 100%;
+}
+
+#dilbertIconDiv {
+    width: 15%;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    z-index: 999;
+}
+
+#dilbertBcDiv {
+    width: 80%;
+    position: absolute;
+    left: 90px;
+    top: 160px;
+    left: 0px;
+    background-position: center;
+    z-index: 999;
+}
+
+.normalrow {
+    text-shadow: 2px 2px 5px red;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+    font-size: 40pt;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.inlinerow {
+    text-shadow: 2px 2px 5px red;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+    font-size: 40pt;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+#inlinerowKid41 > h1 {
+    text-shadow: 2px 2px 10px red;
+}
+
+#inlinerowKid42 > h1 {
+    text-shadow: 2px 2px 10px red;
+}
+
+#inlinerowKid51 > h1 {
+    text-shadow: 2px 2px 10px red;
+}
+
+#inlinerowKid52 > h1 {
+    text-shadow: 2px 2px 10px red;
+}
+
+#inlinerowKid61 > h1 {
+    text-shadow: 2px 2px 10px red;
+}
+
+#inlinerowKid71 > h1 {
+    text-shadow: 2px 2px 10px red;
+}
+
+#inlinerowKid91 > h1 {
+    text-shadow: 2px 2px 10px red;
+}
+
+#inlinerowKid101 > h1 {
+    text-shadow: 2px 2px 10px red;
+}
+
+#inlinerowKid111 > h1 {
+    text-shadow: 2px 2px 10px red;
+}
+
+#inlinerowKid121 > h1 {
+    text-shadow: 2px 2px 10px red;
+}
+
+#inlinerowKid141 > h1 {
+    text-shadow: 2px 2px 10px red;
+}
+
+.inlinerow div {
+    display: inline;
+    vertical-align: middle;
+    width: 75%;
+}
+
+
+#BBCTitle {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+    font-size: 40pt;
+}
+
+#hlcontainer {
+    width: 600px;
+    height: 600px;
+    position: relative;
+    margin: 0 auto;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+#hlcenter {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 30%;
+    left: 38%;
+}
+
+.hlfield {
+    width: 170px;
+    height: 170px;
+    position: absolute;
+    border: none;
+}
+
+#hlcrosshair-x {
+    width: 600px;
+    height: 1px;
+    position: absolute;
+    left: 0;
+    top: 300px;
+}
+
+#hlcrosshair-y {
+    width: 1px;
+    height: 600px;
+    position: absolute;
+    left: 300px;
+    top: 0;
+}
+
+#hlsec {
+    text-align: center;
+}
+
+#componentsTable tbody tr td img .hlcomimg {
+    height: 120px;
+    width: auto;
+}
+
+#hlcomimg1 {
+    background-color: rgba(0, 0, 0, 0);
+    border: 0
+}
+
+#hlcomimg2 {
+    background-color: rgba(0, 0, 0, 0);
+    border: 0
+}
+
+#hlcomimg3 {
+    background-color: rgba(0, 0, 0, 0);
+    border: 0
+}
+
+#hlcomimg4 {
+    background-color: rgba(0, 0, 0, 0);
+    border: 0
+}
+
+#hlcomimg5 {
+    background-color: rgba(0, 0, 0, 0);
+    border: 0
+}
+
+#hlcomimg6 {
+    background-color: rgba(0, 0, 0, 0);
+    border: 0
+}
+
+#hllogoimg0 {
+    background-color: rgba(0, 0, 0, 0);
+    border: 0
+}
+
+#hllogoimg1 {
+    background-color: rgba(0, 0, 0, 0);
+    border: 0
+}
+
+#hllogoimg2 {
+    background-color: rgba(0, 0, 0, 0);
+    border: 0
+}
+
+#hllogoimg3 {
+    background-color: rgba(0, 0, 0, 0);
+    border: 0
+}
+
+#hllogoimg4 {
+    background-color: rgba(0, 0, 0, 0);
+    border: 0
+}
+
+#hllogoimg5 {
+    background-color: rgba(0, 0, 0, 0);
+    border: 0
+}
+
+#hllogoimg6 {
+    background-color: rgba(0, 0, 0, 0);
+    border: 0
+}
+
+#hllogoimg7 {
+    background-color: rgba(0, 0, 0, 0);
+    border: 0
+}
+
+#hllogoimg8 {
+    background-color: rgba(0, 0, 0, 0);
+    border: 0
+}
+
+#componentsTable {
+    border: 0;
+}
+
+#architectureDevDiv {
+    content: url('../img/architecture-dev.png');
+    height: 120%;
+    display: block;
+    margin: auto;
+}
+
+#pbftDiv {
+    content: url('../img/pbft.png');
+    height: 120%;
+    display: block;
+    margin: auto;
+}
+
+#scenarioDiv {
+    content: url('../img/scenario.png');
+    display: block;
+    margin: 0 auto;
+    bottom: 0;
+    width: 75%;
+}
+
+.inlinerow > .context_container {
+    display: flex;
+    flex-flow: column;
+    width: 100%;
+    align-items: center;
+}
